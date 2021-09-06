@@ -21,4 +21,7 @@ The class containing all the csv handling code is called ETL/csv.py.
   
 ## DB file extraction, transformation and loading package
 
-**Not yet started**
+The classes contain different connectors for different databases and also method sto interact and execute into the db.
+
+The DB considered by now are: MySQL and Postgres
+**Under development**
